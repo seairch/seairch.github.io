@@ -1,12 +1,30 @@
 ## seairch.github.io
-Web redirect for the first open-source AI-powered WWW Search engine by ®esistine
+Web source for the first open-source AI-powered WWW Search engine by Resistine
 
-[®esistine](https://www.resistine.com) seairch.net
+[®esistine](https://www.resistine.com) Se♳rch
 
 # ®s
 sea-air-search
 
-Please, redirect to [resistine.github.io](resistine.github.io).
+## Ideas 
+
+- First open-source AI-powered WWW Search engine by ®esistine
+… there are just a handful of real search engines that search their own data
+
+- Free code and private user data
+… that’s the goal! We’d like to index billions of pages
+
+- Perfect privacy - we don’t track you, you can check the code
+… not even the searched pages can track premium users!
+
+- Usable UX to find something hidden (no need to leave the page)
+… optimised for web, news and malware forensics without leaving the search
+
+- Type and refine queries automatically and see the result immediately
+… customise and improve the search by topics and even web sites
+
+- Not really a competitor for Google, focus on security and custom search
+… your swiss army cyber-knife for the web!
 
 ### Copyright
    Copyright 2022 © Resistine
